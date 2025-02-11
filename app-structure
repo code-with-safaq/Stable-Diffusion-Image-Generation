@@ -1,0 +1,8 @@
+flask_dreamshaper_app/
+│
+├── app.py                # Main Flask application
+├── templates/            # HTML templates
+│   └── index.html        # Frontend for user input
+├── static/               # Static files (e.g., generated images)
+│   └── images/
+└── requirements.txt      # List of dependencies
